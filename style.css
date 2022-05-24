@@ -15,11 +15,11 @@ body {
     display: flex;
     align-items: center;
     min-height: 160px;
-    width: 100%;
-    height: auto
 }
 header {
     background: url("images/fons2.png") no-repeat center top / cover;
+    width: 100%;
+    height: auto
     
 }
 .header_nav {
