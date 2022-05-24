@@ -25,7 +25,8 @@ header {
     line-height: 18px;
     color: #ffffff;
     text-transform: uppercase;
-    font-weight: 400;
+    weight: 100%;
+    
 }
 .header_nav a {
     text-decoration: none;
