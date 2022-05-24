@@ -559,8 +559,8 @@ section.services5 .services5_list .services5_item h4 {
     margin-bottom: 35px;
 }
 .img {
-    padding-left: 20%;
-    padding-right: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
     height: auto;
     width: 100%;
     text-align: center;
