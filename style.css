@@ -89,6 +89,7 @@ section.services {
     padding: 120px 0;
     text-align: center;
     width: 100%;
+    background-size:100%
 }
 section.services .services_item {
     display: flex;
