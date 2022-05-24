@@ -18,8 +18,6 @@ body {
 }
 header {
     background: url("images/fons2.png") no-repeat center top / cover;
-    width: 96%;
-    max-width: 960px;
     
 }
 .header_nav {
@@ -96,7 +94,8 @@ section.services .services_item {
 }
 section.services .wrapper .services_list .services_item img {
     border-radius: 50px;
-    width: 700px;
+    width: 100%;
+    height: auto;
     filter: blur(5px); /* Размытие изображения */
     transition: 1s; /* Время перехода */
 }
