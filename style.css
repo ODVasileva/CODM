@@ -2,6 +2,9 @@
 
 body {
     font-family: 'Titillium Web', sans-serif;
+    background-size:100% 100%;
+    backgtound-attachment: fixed;
+   
 }
 .wrapper {
     max-width: 1140px;
@@ -15,6 +18,7 @@ body {
 }
 header {
     background: url("images/fons2.png") no-repeat center top / cover;
+    
 }
 .header_nav {
     font-size: 16px;
